@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="checking the AppMovil" skipped="0" tests="1" time="62.7" timestamp="2022-11-03 12:10:04"><testcase name="Select producto to user"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+interactions.InteractWithThis.performAs(InteractWithThis.java:30)&#13;
+interactions.SelectProductsOfUsers.performAs(SelectProductsOfUsers.java:50)&#13;
+task.SelectProductMimovistar.performAs(SelectProductMimovistar.java:11)&#13;
+appMimovistar.stepDefinitions.SelectProductMimovistarStepDefinition.brandonSelectTheProductToUser(SelectProductMimovistarStepDefinition.java:19)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>

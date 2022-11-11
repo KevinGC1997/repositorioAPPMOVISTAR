@@ -1,0 +1,1 @@
+gradle clean test --tests *appMimovistar.runners.Login2AppMimovistarRunner aggregate & cd target/site/serenity & index.html
